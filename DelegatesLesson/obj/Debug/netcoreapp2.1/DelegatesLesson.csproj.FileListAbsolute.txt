@@ -1,0 +1,11 @@
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.csprojAssemblyReference.cache
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.csproj.CoreCompileInputs.cache
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.AssemblyInfoInputs.cache
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.AssemblyInfo.cs
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\bin\Debug\netcoreapp2.1\DelegatesLesson.deps.json
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\bin\Debug\netcoreapp2.1\DelegatesLesson.runtimeconfig.json
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\bin\Debug\netcoreapp2.1\DelegatesLesson.runtimeconfig.dev.json
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\bin\Debug\netcoreapp2.1\DelegatesLesson.dll
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\bin\Debug\netcoreapp2.1\DelegatesLesson.pdb
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.dll
+C:\Users\МакишевЕ.CORP\Desktop\DelegatesLesson\DelegatesLesson\obj\Debug\netcoreapp2.1\DelegatesLesson.pdb
